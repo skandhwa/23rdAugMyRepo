@@ -1,0 +1,55 @@
+Class Area
+
+class name
+method name
+parent class name
+
+Heap Area
+Objects of class are being stored here
+
+
+Stack Area 
+local variables 
+
+
+PC Registers
+All address are being stored here
+
+
+
+Different types of variable 
+
+1>Local Variable
+2>Instance Variable
+3>*****Static Variables 
+
+
+new keyword
+
+new is a keyword in java which will be used during the time of obj creation
+It will allocate space to that object 
+
+
+VariablesinJava obj=new VariablesinJava();
+
+
+2 Types
+
+
+1> Default Constructor
+2>Parametrized Constructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
