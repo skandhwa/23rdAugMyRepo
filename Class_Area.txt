@@ -4,6 +4,8 @@ class name
 method name
 parent class name
 
+Adding new Code
+
 Heap Area
 Objects of class are being stored here
 
