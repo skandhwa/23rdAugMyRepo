@@ -1,0 +1,1 @@
+Prepare a one pager slide with all techniques of black box testing written there
