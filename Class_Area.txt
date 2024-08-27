@@ -30,7 +30,7 @@ Different types of variable
 2>Instance Variable
 3>*****Static Variables 
 
-
+Added my Saurabh on 23rd August
 new keyword
 
 new is a keyword in java which will be used during the time of obj creation
