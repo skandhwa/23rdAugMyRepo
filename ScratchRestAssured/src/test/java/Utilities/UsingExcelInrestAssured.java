@@ -20,7 +20,7 @@ public class UsingExcelInrestAssured {
 	
 //	String pathCreateUser="D:\\TestData3rdJune.xlsx";
 //	String sheetName="Sheet1";
-	
+	System.out.println("hello");
 	FetchDatafromExcel obj=new FetchDatafromExcel(constants.ExcelPath,constants.sheetName);
 	RestAssured.baseURI="https://httpbin.org";
 	Map<Object,Object> mp=new LinkedHashMap<Object,Object>();
